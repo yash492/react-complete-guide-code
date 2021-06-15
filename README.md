@@ -36,6 +36,8 @@ You can download all the content of a branch via the "Code" button here on Githu
 
 You can then dive into the interesting folders (e.g. the individual code snapshots) locally on your hard drive.
 
+Or you can use [DownGit](https://downgit.github.io/#/home) website to download the selected branch content, by entering the link of the subfolder at the website, as a ZIP file.
+
 ### Running the attached code
 
 You can use the attached code simply to compare it to yours. But you can also run it.
